@@ -1,0 +1,9 @@
+C:\Users\ricci\source\repos\subnetiranje\subnetiranje\obj\Debug\subnetiranje.csprojAssemblyReference.cache
+C:\Users\ricci\source\repos\subnetiranje\subnetiranje\obj\Debug\subnetiranje.Form1.resources
+C:\Users\ricci\source\repos\subnetiranje\subnetiranje\obj\Debug\subnetiranje.Properties.Resources.resources
+C:\Users\ricci\source\repos\subnetiranje\subnetiranje\obj\Debug\subnetiranje.csproj.GenerateResource.cache
+C:\Users\ricci\source\repos\subnetiranje\subnetiranje\obj\Debug\subnetiranje.csproj.CoreCompileInputs.cache
+C:\Users\ricci\source\repos\subnetiranje\subnetiranje\bin\Debug\subnetiranje.exe
+C:\Users\ricci\source\repos\subnetiranje\subnetiranje\bin\Debug\subnetiranje.pdb
+C:\Users\ricci\source\repos\subnetiranje\subnetiranje\obj\Debug\subnetiranje.exe
+C:\Users\ricci\source\repos\subnetiranje\subnetiranje\obj\Debug\subnetiranje.pdb
